@@ -88,6 +88,15 @@ body
   text-align: center;
 }
 
+/*Aşağıdaki resimler için*/
+.extra
+{
+  position: fixed;
+  bottom: 75px;
+  left: 60%;
+  transform: translate(-50%, 50%)
+}
+
 main 
 {
   height: 100vh;
